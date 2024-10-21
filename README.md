@@ -6,6 +6,6 @@ It uses geometric Brownian motion, variance reduction techniques, and parallel p
 ## Features
 - Simulates asset prices using geometric Brownian motion
 - Prices European options with a payoff at maturity
-- Prices American options with early exercise using Least Squares Monte Carlo (LSMC)
-- Uses variance reduction (antithetic variates)
+- Prices American options with early exercise using Least Squares Monte Carlo 
+- Uses variance reduction
 - Supports parallel processing for efficiency
